@@ -1,0 +1,9 @@
+Compilar asi:
+
+gcc nombrearchivo.c -lm
+
+
+Para los ejercicios A y B, se utilizo una planilla de calculo para
+verificar que las medias y las desviaciones estandar sean correctas.
+Para el ejercicio se genero un grafico con 2000 puntos, resultando
+similar al grafico del trabajo practico.
